@@ -1,0 +1,14 @@
+button{
+    width: 130px;
+    margin-right: 20px;
+}
+
+.increase{
+    background-color: aquamarine;
+}
+.decrease{
+    background-color: #d3e578;
+}
+.reset {
+    background-color: rgb(232, 63, 63);
+}
